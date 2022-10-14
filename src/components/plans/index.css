@@ -1,0 +1,10 @@
+.plans{
+    background: #003;
+}
+
+.plans-content{
+    display: flex;
+    flex-wrap: wrap;
+   padding: 5% 5%;
+   justify-content: space-evenly;
+}

@@ -1,0 +1,33 @@
+.intro {
+    width: 100%;
+    height: 200px;
+}
+
+.intro > img {
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+
+.intro-content {
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 100px;
+    left: 0;
+}
+
+.intro-content > h2 {
+    color: white;
+    font-size: 22px;
+}
+
+.intro-content > p{
+    color: #ccc;
+    font-size: 15px;
+}

@@ -1,0 +1,10 @@
+.trainers {
+    background: #003;
+}
+
+.trainers-content {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5% 5%;
+    justify-content: space-evenly;
+}
